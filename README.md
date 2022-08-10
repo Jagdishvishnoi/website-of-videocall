@@ -21,7 +21,6 @@
 <!-- tutorial -->
 ## Tutorial  
 
-* This repository is part of a youtube tutorial series , if you are interested to learn how to development is done , you can go through this playlist.https://www.youtube.com/playlist?list=PLGmKMg3aRkXguVpBmQLtXbTXf1Fzd1sWt
 
 <!-- Prerequisites -->
 ## Usage
@@ -29,26 +28,9 @@
 * Add your firebase config details to Server/firebase.js. 
 * Run "npm run start" to start the app. 
  
-<!-- Demo -->
-## Demo
-* The App can support upto 8-12 users without having any UI alignment issues
 
-* Desktop View
-![](screenshots/Desktop%20View.jpg)
 
-* Desktop Sharing View
-![](screenshots/Screenshare.jpg)
 
-* Mobile View
-<br />
 
-![](screenshots/Mobile%20View.jpg)
 
-<!-- CONTACT -->
-## Contact
 
-Instagram - [@Instagram](https://www.instagram.com/i_m_ck13/) - chithakumar13@gmail.com
-
-Twitter - [@Twitter](https://twitter.com/AlgosCk)
-
-Project Link: [https://github.com/chithakumar13/google-meet-clone](https://github.com/chithakumar13/google-meet-clone)
